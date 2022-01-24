@@ -1,8 +1,8 @@
 {
-  "userPrincipalName": "spencer.woo@outlook.com",
+  "userPrincipalName": "cloud@frencis.cc",
   "icon": "/icons/128.png",
-  "title": "Spencer's OneDrive",
-  "baseDirectory": "/Public",
+  "title": "Qwert's OneDrive",
+  "baseDirectory": "/",
   "maxItems": 100,
   "googleFontSans": "Inter",
   "googleFontMono": "Fira Mono",
@@ -14,15 +14,6 @@
     "/🌞 Private folder/u-need-a-password",
     "/🥟 Some test files/Protected route"
   ],
-  "email": "mailto:spencer.wushangbo@gmail.com",
-  "links": [
-    {
-      "name": "GitHub",
-      "link": "https://github.com/spencerwooo/onedrive-vercel-index"
-    },
-    {
-      "name": "Telegram",
-      "link": "https://t.me/realSpencerWoo"
-    }
-  ]
+  "email": "mailto:admin@frencis.cc",
+  "links": []
 }
